@@ -1,2 +1,5 @@
 # Automate Optimization for Water Level Controller
-To Optimize Water Level by using PSO and PID
+This project is to compare two types of liquid level controller PID and PSO
+
+- The performance of PID and PID-PSO is compare by set different target level (0-50 mm)
+- The Setling time, Rise Time, Steady State error, and overshoot will be record.
